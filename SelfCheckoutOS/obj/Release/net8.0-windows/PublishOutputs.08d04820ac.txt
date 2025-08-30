@@ -1,0 +1,5 @@
+D:\SCOS ASSETS\Releases\SelfCheckoutOS.exe
+D:\SCOS ASSETS\Releases\SelfCheckoutOS.dll
+D:\SCOS ASSETS\Releases\SelfCheckoutOS.deps.json
+D:\SCOS ASSETS\Releases\SelfCheckoutOS.runtimeconfig.json
+D:\SCOS ASSETS\Releases\SelfCheckoutOS.pdb
